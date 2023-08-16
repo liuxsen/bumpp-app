@@ -1,6 +1,6 @@
 {
   "name": "@fostars/pnpm-app",
-  "version": "1.0.1-beta.2",
+  "version": "1.0.1-beta.3",
   "main": "index.js",
   "scripts": {
     "release": "bumpp package.json packages/**/package.json"
